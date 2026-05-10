@@ -44,11 +44,11 @@ Clone the module into your MagicMirror modules directory:
 cd ~/MagicMirror/modules
 git clone https://github.com/YOUR_USER/PM25Monitor
 No additional dependencies are required.
-
+````
 ⚙️ Configuration
 Add the module to your config.js:
 
-js
+````js
 {
     module: "PM25Monitor",
     position: "top_right",
