@@ -35,6 +35,8 @@ Code
 PM2.5: --
 PM10: --
 PM1.0: --
+````
+````
 📦 Installation
 Clone the module into your MagicMirror modules directory:
 
