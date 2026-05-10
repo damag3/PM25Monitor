@@ -1,11 +1,11 @@
-# PM2.5Monitor – MagicMirror² Module for ESP8266 PM2.5 Sensor
+# MMMK-PM2.5Monitor – MagicMirror² Module for ESP8266 PM2.5 Sensor
 
 ![MagicMirror](https://img.shields.io/badge/MagicMirror-Module-blue)
 ![Air Quality](https://img.shields.io/badge/Air%20Quality-PM2.5-green)
 ![ESP8266](https://img.shields.io/badge/ESP8266-Sensor-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-PM25Monitor is a MagicMirror² module that displays **real‑time PM2.5, PM10, and PM1.0 air quality data** from an ESP8266‑based sensor.
+MMM-PM25Monitor is a MagicMirror² module that displays **real‑time PM2.5, PM10, and PM1.0 air quality data** from an ESP8266‑based sensor.
 
 The ESP8266 must expose a JSON endpoint returning PM values.  
 The module fetches the data using a Node.js helper and displays it with color‑coded air quality indicators.
