@@ -42,7 +42,7 @@ Clone the module into your MagicMirror modules directory:
 
 ````bash
 cd ~/MagicMirror/modules
-git clone https://github.com/YOUR_USER/PM25Monitor
+git clone [https://github.com/damag3/PM25Monitor.git]
 No additional dependencies are required.
 ````
 ⚙️ Configuration
