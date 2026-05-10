@@ -36,11 +36,11 @@ PM2.5: --
 PM10: --
 PM1.0: --
 ````
-````
+
 📦 Installation
 Clone the module into your MagicMirror modules directory:
 
-bash
+````bash
 cd ~/MagicMirror/modules
 git clone https://github.com/YOUR_USER/PM25Monitor
 No additional dependencies are required.
