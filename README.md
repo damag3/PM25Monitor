@@ -13,6 +13,10 @@ The module fetches the data using a Node.js helper and displays it with color‑
 ---
 
 ## 📡 Requirements
+This module requires the GasMonitor backend running on a Raspberry Pi:
+https://github.com/damag3/ESP8266-PM2.5-Air-Quality-Sensor-Firmware
+
+👉 GasMonitor Repository
 
 Your ESP8266 must serve a JSON endpoint at:
 http://<ESP_IP>/json
