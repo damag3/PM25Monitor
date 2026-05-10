@@ -1,4 +1,4 @@
-# MMMK-PM2.5Monitor – MagicMirror² Module for ESP8266 PM2.5 Sensor
+# MMM-PM2.5Monitor – MagicMirror² Module for ESP8266 PM2.5 Sensor
 
 ![MagicMirror](https://img.shields.io/badge/MagicMirror-Module-blue)
 ![Air Quality](https://img.shields.io/badge/Air%20Quality-PM2.5-green)
